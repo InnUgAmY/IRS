@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/76c717ad-6b5a-4095-b81d-b7ccccd61287)
+![image](https://github.com/user-attachments/assets/1844587b-bb10-473d-b03c-552141ec059a)
+
 лицо (выделяется синим прямоугольником),
 глаза (выделяются зелёным прямоугольником),
 улыбку (выделяется красным прямоугольником).
